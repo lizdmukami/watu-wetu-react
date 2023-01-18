@@ -44,7 +44,7 @@ root.render(
     <React.StrictMode>
      <BrowserRouter>
        <RouterProvider router={router} />
-     <BrowserRouter/>
+     </BrowserRouter>
     </React.StrictMode>
 );
 
