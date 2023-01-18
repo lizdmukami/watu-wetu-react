@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/watu-wetu-react/static/css/main.e6c13ad2.css",
+    "main.js": "/watu-wetu-react/static/js/main.e63c1f25.js",
+    "static/js/787.658ed05b.chunk.js": "/watu-wetu-react/static/js/787.658ed05b.chunk.js",
+    "index.html": "/watu-wetu-react/index.html",
+    "main.e6c13ad2.css.map": "/watu-wetu-react/static/css/main.e6c13ad2.css.map",
+    "main.e63c1f25.js.map": "/watu-wetu-react/static/js/main.e63c1f25.js.map",
+    "787.658ed05b.chunk.js.map": "/watu-wetu-react/static/js/787.658ed05b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e63c1f25.js"
+  ]
+}
